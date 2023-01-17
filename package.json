@@ -1,0 +1,11 @@
+{
+  "name": "demo_student_manager",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "qs": "^6.11.0"
+  }
+}
